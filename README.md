@@ -56,6 +56,11 @@
 
 ---
 
+### 📂 Explore My Work
+> 📁 If you're interested in exploring my work, please have a look at my **repository folders** where I've included most of my projects, including Business Analytics, Data Analytics, and Urban Planning.
+
+---
+
 ### ⚡ Fun Fact:
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="Creative GIF"/>
