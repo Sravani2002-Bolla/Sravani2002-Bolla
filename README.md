@@ -2,73 +2,80 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
 </p>
 
-<h1 align="center">Hi there, I'm Sravani Bolla 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#FFB400;">Sravani Bolla</span> 👋</h1>
 
 <p align="center">
-  <em>Master's Student in Business Analytics | Urban Planning Enthusiast | Data Analytics Explorer</em>
+  <em>📊 Business & Data Analytics Professional | 🌍 Spatial Data & GIS Expertise | 🎓 MS in Business Analytics</em>
 </p>
 
 ---
 
-### 🔭 Currently Working On:
-- 🚀 **Capstone Project** in Business Analytics at W. P. Carey School of Business, ASU, leveraging analytical tools to drive impactful business insights.
+## 📌 About Me
+I am a **recent graduate (May 2025)** with a **Master’s in Business Analytics** from Arizona State University (4.0 GPA) and a **Bachelor’s in Urban Planning**.  
+My unique background combines **data analytics, machine learning, and visualization** with **spatial analysis and sustainable development planning**.  
+
+I bring a data-driven approach to solving problems — whether it’s optimizing business performance, improving customer experience, or designing smarter cities.
 
 ---
 
-### 🌱 Currently Learning:
-- 📊 Advanced concepts in **Business Analytics**, including data visualization, machine learning, and predictive modeling.
-- 🌱 **Life lessons** that enhance both professional and personal growth.
+## 💼 Selected Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| **Rolling Forecast Model – MedAire Inc.** | Power BI, SQL, Excel | Reduced forecasting cycles by 25% with dynamic revenue modeling. |
+| **Wine Quality Prediction** | Python (KNN, SVM, Random Forest) | Classified wine quality with 76% accuracy using chemical features. |
+| **Yelp Review Sentiment Analysis** | Python, NLP | Identified satisfaction drivers to improve business strategy. |
+| **Real-Time Queue Estimation – ASU Dining** | Python, IoT Data | Reduced peak wait times with live monitoring. |
+| **Urban Planning GIS Analysis – AMRUT Project** | ArcGIS Pro, QGIS | Recommended 15% more green space in city planning. |
 
 ---
 
-### 👯 Looking to Collaborate On:
-- 📈 **Data Analytics** and **Business Analytics** projects to transform data into actionable insights.
-- 🌍 Projects that integrate **Urban Planning** with **Analytical Skills** to develop sustainable and strategic solutions.
-
----
-
-### 💬 Ask Me About:
+## 🛠 Skills & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/GIS-00A99D?style=for-the-badge&logo=earth&logoColor=white" alt="GIS"/>
-  <img src="https://img.shields.io/badge/AutoCAD-E0A500?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Statistical_Analysis-006699?style=for-the-badge&logo=mathworks&logoColor=white" alt="Statistical Analysis"/>
-  <img src="https://img.shields.io/badge/Business_Analysis-1C1C1C?style=for-the-badge&logo=abstract&logoColor=white" alt="Business Analysis"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIS-00A99D?style=for-the-badge&logo=earth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E0A500?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </div>
 
 ---
 
-### 📫 How to Reach Me:
+## 🎯 Professional Interests
+- Business & Data Analytics for decision-making  
+- Predictive modeling and forecasting  
+- Spatial analytics for smarter city and business planning  
+- Sustainable development using evidence-based insights  
+
+---
+
+## 📫 Contact Me
 <p align="center">
-  <a href="mailto:sbolla8@asu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:bollasravani2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+16232878381">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sravani-bolla-0b8b591a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SravaniBolla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📂 Explore My Work
-> 📁 If you're interested in exploring my work, please have a look at my **repository folders** where I've included most of my projects, including Business Analytics, Data Analytics, and Urban Planning.
+## 📢 Open to Work
+I am **actively seeking Analyst roles** (Business, Data, or GIS) where I can leverage my skills in **data analytics, visualization, and predictive modeling** to create measurable impact.  
 
----
+📂 **Explore My Projects** in this GitHub profile to see my work in:
+- 📊 Data Analytics & Machine Learning
+- 🌍 GIS & Spatial Analysis
+- 📈 Business Intelligence Dashboards
 
-### ⚡ Fun Fact:
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="Creative GIF"/>
-</p>
-
-> Beyond analytics and planning, I enjoy **crafting, gardening, and solving puzzles**.
-
----
-
-### 🚀 Let's Collaborate!
-> I'm always open to new challenges and opportunities. Let's connect and collaborate to create **data-driven solutions** that shape better urban environments and business strategies! 🌐✨
+> 💬 Let’s connect to discuss how I can contribute to your team’s success.
